@@ -1,1 +1,1 @@
-# equal_weight_snp500
+# Algorithmic Trading Projects
